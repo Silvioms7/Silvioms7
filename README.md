@@ -1,10 +1,10 @@
 ## 👋
-Ola, eu me chamo Silvio, estudante de Engenharia de Software com foco em logo prazo fullstack.
+Hi, my name is Silvio. I’m a software engineering student with a focus on full-stack development.
 
-Minha stack atual: Java, SQL, Git e GitHub.
+My current tech stack: Java, SQL, Git, and GitHub.
 
-Interesses: Cibersegurança e desenvolvimento de sistemas seguros e escaláveis.
+Interests: Cybersecurity (ethical hacking) and developing secure, scalable systems.
 
-Próximos Passos: Expandir stack para C++, Rust, Node.js, Go, React, JavaScript, CSS e HTML.
+Next Steps: Expand my stack to include C++, Rust, Node.js, Go, React, JavaScript, CSS, and HTML.
 
-Idiomas: Estudando inglês ativamente para evolução profissional.
+Languages: Actively studying English for professional growth.
